@@ -15,12 +15,12 @@ Beyond coding, I explore **cloud technologies, DevOps, distributed systems, and 
 ### Northeastern University, Boston, MA
 **Master of Science in Information Systems**     |     **Sep 2023 – Aug 2025**  
 - Graduate Teaching Assistant: Program Structures and Algorithms  
-- Courses: Cloud Computing, Database Design, Web Development, Data Structures & Algorithms  
+- Courses: Cloud Computing, Database Design, Web Development, Data Structures & Algorithms
+- AWS Certified Developer – Associate (2026)
 
 ### National Institute of Technology, Raipur, India
 **Bachelor of Technology in Electronics and Telecommunication Engineering**     |     **Jul 2015 – May 2019**  
-
-### AWS Certified Developer – Associate (2026)
+  
 ---
 
 ## 🏆 Professional Experience
