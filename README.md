@@ -20,11 +20,17 @@ Beyond coding, I explore **cloud technologies, DevOps, distributed systems, and 
 ### National Institute of Technology, Raipur, India
 **Bachelor of Technology in Electronics and Telecommunication Engineering**     |     **Jul 2015 – May 2019**  
 
+### AWS Certified Developer – Associate (2026)
 ---
 
 ## 🏆 Professional Experience
 
 ### **Dassault Systèmes – Software Developer Intern**
+📅 March 2026 – Present, Providence, RI  
+- Integrated Agent-to-Agent communication into an existing **RAG** pipeline using **LangChain** and **Python**, enabling KB-grounded
+responses with source citations and multi-turn memory for simulation failure analysis.
+- Built **TypeScript** components for improving lifecycle tracking and failure analysis workflows.
+  
 📅 Sep 2024 – Jan 2025, Providence, RI  
 - Developed a **Java Spring Boot middleware** to sync 500+ test cases between 3DEXPERIENCE and Jira using **REST APIs**  
 - Automated **real-time and batch sync** with webhooks, message queues, and schedulers, reducing manual updates by 60%  
@@ -49,12 +55,17 @@ Beyond coding, I explore **cloud technologies, DevOps, distributed systems, and 
 
 ## 🔥 Relevant Projects
 
-### [SmartDo – AI-Powered Task Management System](https://github.com/SruAdapa28/smart-do) 🤖
+### [AI Research Assistant with Multi-Agent RAG Workflow](https://github.com/SruAdapa28/ai-research-assistant) 🤖
+**Tech Stack:** Python, LangChain, LangGraph, FastAPI
+- Built a multi-agent RAG system using **Python**, **LangChain**, and **LangGraph** for semantic Q&A over research PDFs.
+- Exposed the application through a **FastAPI** REST service, containerized with Docker for modular deployment.
+  
+### [SmartDo – AI-Powered Task Management System](https://github.com/SruAdapa28/smart-do) 🧠
 **Tech Stack:** Java, Spring Boot, Akka Cluster, OpenAI GPT-3.5-turbo, AWS  
 - Built a **distributed task system with actor-based multi-node design**, enabling **fault-tolerant and high-availability task processing**  
 - Integrated **OpenAI GPT-3.5-turbo** for **intelligent task extraction, classification, and prioritization**, improving user productivity  
 
-### [Enterprise Java REST API Platform](https://github.com/SruAdapa28/cloud-infra-terraform) 💻
+### [Enterprise Java REST API Platform](https://github.com/SruAdapa28/adv-big-data-indexing) 💻
 **Tech Stack:** Java, Spring Boot, Redis, RabbitMQ, Elasticsearch  
 - Designed **scalable backend APIs** with asynchronous processing, parent-child indexing, and **high-performance search features** for enterprise-grade systems  
 - Implemented **event-driven architecture** using RabbitMQ and Redis caching to enhance **system responsiveness and reliability**  
